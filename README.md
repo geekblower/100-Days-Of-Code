@@ -5,6 +5,6 @@ Trying to be consistent with problem solving by solving as many problems as I ca
 All the codes are arranged in groups of 10 days each.
 
 
-## Authors
+## Author
 
 - [@Geekblower](https://www.github.com/geekblower)
