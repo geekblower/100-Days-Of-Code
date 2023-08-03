@@ -7,3 +7,6 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   02  | 02/08/23 | Leetcode | Remove Trailing Zeros From a String | CPP
   03 | 03/08/23 | Codestudio | Change Case | CPP
   04 | 03/08/23 | Codestudio | Sudoku Solver | CPP
+  05 | 03/08/23 | Leetcode | N Queens | CPP
+  06 | 03/08/23 | Leetcode | Self Dividing Numebrs | CPP
+  07 | 04/08/23 | Codestudio | Cycle Detection in Undirected Graph Using BFS | CPP
