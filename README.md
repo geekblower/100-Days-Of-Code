@@ -1,4 +1,4 @@
-# 100 Days of Code
+# 100 Days of Problem Solving
 
 Trying to be consistent with problem solving by solving as many problems as I can in the next 100 days.
 
