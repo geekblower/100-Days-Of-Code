@@ -12,3 +12,4 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   07 | 04/08/23 | Codestudio | Cycle Detection in Undirected Graph Using BFS | CPP
   08 | 04/08/23 | Leetcode | N Queens II | CPP
   09 | 04/08/23 | Leetcode | Design Circular Queue | CPP
+  10 | 05/08/23 | Codestudio | Detect Cycle In A Directed Graph Using DFS | CPP
