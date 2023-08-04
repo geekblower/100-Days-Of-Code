@@ -10,3 +10,5 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   05 | 03/08/23 | Leetcode | N Queens | CPP
   06 | 03/08/23 | Leetcode | Self Dividing Numebrs | CPP
   07 | 04/08/23 | Codestudio | Cycle Detection in Undirected Graph Using BFS | CPP
+  08 | 04/08/23 | Leetcode | N Queens II | CPP
+  09 | 04/08/23 | Leetcode | Design Circular Queue | CPP
