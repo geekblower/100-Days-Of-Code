@@ -13,3 +13,4 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   08 | 04/08/23 | Leetcode | N Queens II | CPP
   09 | 04/08/23 | Leetcode | Design Circular Queue | CPP
   10 | 05/08/23 | Codestudio | Detect Cycle In A Directed Graph Using DFS | CPP
+  11 | 05/08/23 | Leetcode | Range Sum Of BST | CPP
