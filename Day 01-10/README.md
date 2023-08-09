@@ -18,3 +18,4 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   13 | 08/08/23 | Leetcode | Binary Tree Paths | CPP
   14 | 09/08/23 | Leetcode | Combination Sum II | CPP
   15 | 09/08/23 | Leetcode | Convert Sorted Array To Binary Search Tree | CPP
+  16 | 09/08/23 | Leetcode | Convert Sorted List to Binary Search Tree | CPP
