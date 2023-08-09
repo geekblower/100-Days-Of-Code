@@ -16,3 +16,5 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   11 | 05/08/23 | Leetcode | Range Sum Of BST | CPP
   12 | 07/08/23 | Leetcode | Combinations | CPP
   13 | 08/08/23 | Leetcode | Binary Tree Paths | CPP
+  14 | 09/08/23 | Leetcode | Combination Sum II | CPP
+  15 | 09/08/23 | Leetcode | Convert Sorted Array To Binary Search Tree | CPP
