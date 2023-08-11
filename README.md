@@ -5,14 +5,11 @@ Trying to be consistent with problem solving by solving as many problems as I ca
 All the codes are arranged in groups of 10 days each.
 
 
-## Author
-
-- [@Geekblower](https://www.github.com/geekblower)
 
 
 Sr No | Start | End | Total Ques
 ------|-------|-----|------------
-01 | 01/08/23 | 10/08/23 | -
+01 | 01/08/23 | 10/08/23 | 17
 02 | 11/08/23 | 20/08/23 | -
 03 | 21/08/23 | 30/08/23 | -
 04 | 31/08/23 | 09/09/23 | -
@@ -22,3 +19,7 @@ Sr No | Start | End | Total Ques
 08 | 10/10/23 | 19/10/23 | -
 09 | 20/10/23 | 29/10/23 | -
 10 | 30/10/23 | 08/11/23 | -
+
+## Author
+
+- [@Geekblower](https://www.github.com/geekblower)
