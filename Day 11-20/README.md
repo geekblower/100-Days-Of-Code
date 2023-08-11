@@ -3,4 +3,4 @@
 
 Sr No   |   Date     |  Paltform |              Question          | Language
 --------|------------|-----------|---------------------------------|-----------
-  01  |  11/08/23  | Leetcode  | Faulty Keyboard
+  01  |  11/08/23  | Leetcode  | Faulty Keyboard | CPP
