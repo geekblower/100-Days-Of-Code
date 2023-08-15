@@ -9,3 +9,4 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   04 | 13/08/23 | Leetcode | Last Stone Weight | CPP
   05 | 13/08/23 | Leetcode | Kth Largest Element in an Array | CPP
   06 | 13/08/23 | GeeksforGeeks | Nth Fibonacci Number | CPP
+  07 | 15/08/23 | Leetcode | Account Balance After Rounded Purchase | CPP
