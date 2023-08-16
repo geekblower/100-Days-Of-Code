@@ -10,3 +10,5 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   05 | 13/08/23 | Leetcode | Kth Largest Element in an Array | CPP
   06 | 13/08/23 | GeeksforGeeks | Nth Fibonacci Number | CPP
   07 | 15/08/23 | Leetcode | Account Balance After Rounded Purchase | CPP
+  08 | 16/08/23 | Leetcode | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | CPP
+  09 | 16/08/23 | Leetcode | Take Gifts From the Richest Pile | CPP
