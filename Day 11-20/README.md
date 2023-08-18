@@ -12,3 +12,6 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   07 | 15/08/23 | Leetcode | Account Balance After Rounded Purchase | CPP
   08 | 16/08/23 | Leetcode | Find a Corresponding Node of a Binary Tree in a Clone of That Tree | CPP
   09 | 16/08/23 | Leetcode | Take Gifts From the Richest Pile | CPP
+  10 | 18/08/23 | Leetcode | Insert Greatest Common Divisors in Linked List | CPP
+  11 | 18/08/23 | Leetcode | Decode XORed Array | CPP
+  12 | 18/08/23 | Leetcode | Maximum Binary Tree | CPP
