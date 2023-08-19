@@ -15,3 +15,4 @@ Sr No   |   Date     |  Paltform |              Question          | Language
   10 | 18/08/23 | Leetcode | Insert Greatest Common Divisors in Linked List | CPP
   11 | 18/08/23 | Leetcode | Decode XORed Array | CPP
   12 | 18/08/23 | Leetcode | Maximum Binary Tree | CPP
+  13 | 19/08/23 | Leetcode | Invert Binary Tree | CPP
